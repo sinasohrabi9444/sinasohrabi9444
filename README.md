@@ -66,18 +66,6 @@ My personal digital identity — clean, responsive, and creative.
 
 ---
 
-## 🧰 GitHub Activity & Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinasohrabi9444&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sinasohrabi9444&theme=react&hide_border=true&background=0D1117&ring=00E8FF&fire=00E8FF&currStreakLabel=FFFFFF" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinasohrabi9444&theme=react-dark&bg_color=0D1117&color=00E8FF&line=00E8FF&point=FFFFFF" />
-</p>
-
----
 
 ## 🎯 Skill Highlights  
 
